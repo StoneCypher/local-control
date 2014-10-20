@@ -1,0 +1,39 @@
+{
+  "author": "John Haugeland",
+  "name": "local-control",
+  "description": "Simpler internationalization and localization for React.js using Yahoo's react-intl",
+  "version": "0.3.4",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StoneCypher/local-control.git"
+  },
+  "homepage": "https://github.com/StoneCypher/local-control",
+  "keywords": [
+    "react",
+    "react.js",
+    "flocks.js",
+    "international",
+    "internationalize",
+    "internationalization",
+    "i18n",
+    "local",
+    "locale",
+    "localize",
+    "localization",
+    "l10n"
+  ],
+  "author": "John Haugeland <stonecypher@gmail.com> (http://fullof.bs/)",
+  "dependencies": {
+    "vows": "*",
+    "react": "^0.11.1",
+    "intl": "^0.1.4",
+    "react-intl": "^1.0.0",
+    "": "",
+  },
+  "engines": {
+    "node": "*"
+  },
+  "scripts": {
+    "test": "vows test/* --spec"
+  }
+}
