@@ -1,3 +1,12 @@
+dead project
+============
+
+yahoo just put internationalization controls into their own library.  this project no longer makes sense.
+
+
+
+
+
 local-control
 =============
 
